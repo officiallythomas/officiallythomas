@@ -79,7 +79,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
-### ⚙️📈 &nbsp;GitHub Stats
+### ⚙️&nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/officiallythomas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=officiallythomas&show_icons=true&theme=tokyonight_duo&include_all_commits=true&count_private=true"/>
@@ -88,11 +88,15 @@
 </p>
 
 
-<p><br><br><br><h3 align="center">My Contributions ✨<h3></p><br> 
+
+### 📈 Streak-Stats ✨
  
 
 <p align = "center"><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=officiallythomas&theme=tokyonight_duo" alt="officiallythomas" /></p>
 
 <p><br></p>
+
+### 🐍 Github Contributions
+![github contribution grid snake animation](https://raw.githubusercontent.com/officiallythomas/officiallythomas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
