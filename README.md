@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Thomas John</h1>
-<h3 align="center">DataScience & Analytics </h3>
+<h3 align="center">Data Science & Analytics </h3>
 
 
 <a href="">
